@@ -1,6 +1,6 @@
-# XGBoost for MNIST Digit Recognition
+# CSC3116 Machine Learning Project Exam - Question 3: XGBoost for MNIST Digit Recognition
 
-This repository contains a comprehensive machine learning project implementing XGBoost classifier for MNIST digit recognition.
+This repository contains a comprehensive machine learning project implementing XGBoost classifier for MNIST digit recognition as part of the CSC3116 Machine Learning course final exam.
 
 ## Project Overview
 
@@ -57,9 +57,8 @@ The final XGBoost model achieves high accuracy on the MNIST test set. See `repor
 
 ## Author
 
-Machine Learning Exam - Question 3
+CSC3116 Machine Learning Course - Question 3
 
 ## License
 
 This project is for educational purposes.
-
