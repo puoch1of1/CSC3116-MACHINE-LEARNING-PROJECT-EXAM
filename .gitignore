@@ -12,6 +12,17 @@ build/
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
+# Model files (generated)
+*.pkl
+
+# Figures (generated)
+figures/
+
+# Results (generated)
+*.csv
+!energy efficiency dataset*.csv
+!fish_disease*.csv
+
 # Environment
 venv/
 env/
@@ -28,18 +39,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Model files (optional - uncomment if you don't want to commit large model files)
-# *.pkl
-# model_1.pkl
-
-# Data files (optional - uncomment if data files are large)
-# *.csv
-# fish_disease_*.csv
-
-# Figures (optional - uncomment if you want to regenerate figures)
-# figures/
-
 # Temporary files
 *.tmp
 *.log
-
