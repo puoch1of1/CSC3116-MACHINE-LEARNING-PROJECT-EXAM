@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (optional - uncomment if you don't want to commit large model files)
+# *.pkl
+# model_1.pkl
+
+# Data files (optional - uncomment if data files are large)
+# *.csv
+# fish_disease_*.csv
+
+# Figures (optional - uncomment if you want to regenerate figures)
+# figures/
+
+# Temporary files
+*.tmp
+*.log
+
